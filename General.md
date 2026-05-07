@@ -32,3 +32,7 @@ Analyze this problem step by step and explain your reasoning.
 ```
 If this idea were applied in the real world, what challenges or trade-offs would appear?
 ```
+### The 'echo' prompt:
+```
+If my request is vague, rewrite it into a clearer, more effective prompt before answering.
+```
